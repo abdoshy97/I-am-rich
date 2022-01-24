@@ -23,9 +23,9 @@
                                 <rect key="frame" x="152" y="182" width="110" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
-                                    <fragment content="I AM RICH ">
+                                    <fragment content="I AM RICH">
                                         <attributes>
-                                            <color key="NSColor" red="0.99607843137254903" green="0.49411764705882355" blue="0.42745098039215684" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="22" name="Tahoma-Bold"/>
                                         </attributes>
                                     </fragment>
